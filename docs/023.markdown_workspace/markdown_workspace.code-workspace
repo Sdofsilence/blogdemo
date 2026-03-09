@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "dayly/English_words"
+		},
+		{
+			"path": "文本20230220"
+		},
+		{
+			"path": "dayly/english_roots_and_affixes"
+		},
+		{
+			"path": "dayly/english_grammar"
+		},
+		{
+			"path": "../cpp_workspace/solutions_1_2024_5_13/project_cpp_2024_5_19_cpp_design_pattern/markdowns_for_each_cpp"
+		},
+		{
+			"path": "cpp_syntax"
+		},
+		{
+			"path": "cpp_core_guide_and_effective_cpp"
+		}
+	],
+	"settings": {}
+}
